@@ -1,0 +1,4 @@
+{"user":"Mary","url":"./home","cTime":"2022-02-02 12:00:00"}
+{"user":"Bob","url":"./cart","cTime":"2022-02-02 12:00:00"}
+{"user":"Mary","url":"./prod?id=1","cTime":"2022-02-02 12:00:05"}
+{"user":"Liz","url":"./home","cTime":"2022-02-02 12:01:00"}
